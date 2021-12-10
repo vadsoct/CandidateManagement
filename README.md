@@ -20,7 +20,7 @@ Ao finalizar o seu desenvolvimento, submeta um pull request para este repositór
 - Desenvolva a aplicação com base no modelo relacional apresentado no início deste documento.
 - Desenvolva utilizando a abordagem de Code-First com o Entity Framework.
 - Utilize SQL in-memory ou SQL Express (localdb)
-- Não se preocupe tanto com o Frontend, o foco é aqui é Backend :upside_down_face:!
+- Não se preocupe tanto com o Frontend, o foco aqui é Backend :upside_down_face:!
 
 ## Dicas
 - Procure aplicar os seus conhecimentos e boas práticas de OOP, DDD, SOLID e Clean Code.
