@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\bin\Debug\net5.0\CandidateManagement.Application.deps.json
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\bin\Debug\net5.0\CandidateManagement.Application.dll
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\bin\Debug\net5.0\CandidateManagement.Application.pdb
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\obj\Debug\net5.0\CandidateManagement.Application.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\obj\Debug\net5.0\CandidateManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\obj\Debug\net5.0\CandidateManagement.Application.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\obj\Debug\net5.0\CandidateManagement.Application.AssemblyInfo.cs
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\obj\Debug\net5.0\CandidateManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\obj\Debug\net5.0\CandidateManagement.Application.dll
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\obj\Debug\net5.0\refint\CandidateManagement.Application.dll
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\obj\Debug\net5.0\CandidateManagement.Application.pdb
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\obj\Debug\net5.0\ref\CandidateManagement.Application.dll
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\bin\Debug\net5.0\CandidateManagement.Domain.dll
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\bin\Debug\net5.0\CandidateManagement.Infra.Data.dll
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\bin\Debug\net5.0\CandidateManagement.Domain.pdb
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\bin\Debug\net5.0\CandidateManagement.Infra.Data.pdb
+C:\Users\PC\source\repos\CandidateManagement\CandidateManagement.Application\obj\Debug\net5.0\CandidateManagement.Application.csproj.CopyComplete

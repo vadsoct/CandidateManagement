@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CandidateManagement.Domain\CandidateManagement.Domain.csproj" />
+    <ProjectReference Include="..\CandidateManagement.Infra.Data\CandidateManagement.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
